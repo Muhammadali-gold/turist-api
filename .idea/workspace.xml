@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebd6290d-fbb0-488e-9e4f-5be46dc35110" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../practiceSecurity/src/main/golang/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceSecurity/src/main/java/com/example/practiceSecurity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zero/turist/data/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zero/turist/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zero/turist/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/WEB-INFO/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/WEB-INFO/templates/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-21.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-23.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-24.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/problem-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/problems/pyth/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/problems/pyth/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-euler/timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project-euler/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zero/turist/TuristApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zero/turist/TuristApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zero/turist/data/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zero/turist/data/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zero/turist/data/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zero/turist/data/Region.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zero/turist/data/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zero/turist/data/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turist" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turist" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turist" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turist" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turist" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turist" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turist" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turist" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z7XdApetpD4XdUMyZV2U6n3UbS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/zero/turist" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zero.turist.repository" />
+      <recent name="com.zero.turist.service" />
+      <recent name="com.zero.turist.controller" />
+      <recent name="com.zero.turist.data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\turist\src\main\resources" />
+      <recent name="D:\turist\src\main\resources\WEB-INFO" />
+      <recent name="D:\turist\src\main\java\com\zero\turist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TuristApplication">
+    <configuration name="TuristApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zero.turist.TuristApplication" />
+      <module name="turist.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zero.turist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="turist [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="turist [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="turist [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TuristApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="turist.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zero.turist.TuristApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TuristApplication" />
+        <item itemvalue="Gradle.turist [clean]" />
+        <item itemvalue="Gradle.turist [build]" />
+        <item itemvalue="Gradle.turist [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebd6290d-fbb0-488e-9e4f-5be46dc35110" name="Default Changelist" comment="" />
+      <created>1584191190361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584191190361</updated>
+      <workItem from="1584191196480" duration="2230000" />
+      <workItem from="1584206139667" duration="90000" />
+      <workItem from="1584206284413" duration="4630000" />
+      <workItem from="1584275342537" duration="3280000" />
+      <workItem from="1584347841995" duration="25000" />
+      <workItem from="1586450263904" duration="1237000" />
+      <workItem from="1587451448706" duration="7444000" />
+      <workItem from="1587530487257" duration="938000" />
+      <workItem from="1587634274304" duration="79000" />
+      <workItem from="1603191544175" duration="364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Assign_Data_Sources" timestamp="1587456022894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1587456022894" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1584277860497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584277860497" />
+    <state x="448" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584278268215">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584278268215" />
+    <state width="1322" height="440" key="GridCell.Tab.0.bottom" timestamp="1587530821853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="440" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587530821853" />
+    <state width="1322" height="440" key="GridCell.Tab.0.center" timestamp="1587530821853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="440" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587530821853" />
+    <state width="1322" height="440" key="GridCell.Tab.0.left" timestamp="1587530821853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="440" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587530821853" />
+    <state width="1322" height="440" key="GridCell.Tab.0.right" timestamp="1587530821853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="440" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587530821853" />
+    <state width="1322" height="440" key="GridCell.Tab.1.bottom" timestamp="1587530807676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="440" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587530807676" />
+    <state width="1322" height="440" key="GridCell.Tab.1.center" timestamp="1587530807676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="440" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587530807676" />
+    <state width="1322" height="440" key="GridCell.Tab.1.left" timestamp="1587530807676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="440" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587530807676" />
+    <state width="1322" height="440" key="GridCell.Tab.1.right" timestamp="1587530807676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="440" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587530807676" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1587454916641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1587454916641" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587634320531">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587634320531" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587530682362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587530682362" />
+  </component>
+</project>
